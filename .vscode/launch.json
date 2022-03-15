@@ -11,10 +11,11 @@
         "-e",
         "source('tools/debug.R')"
       ],
-      "env": {"R_HOME":"/Library/Frameworks/R.framework/Resources"},
+      "env": {
+        "R_HOME" : "/Library/Frameworks/R.framework/Resources"
+      },
       "terminal": "console",
-      "stopOnEntry": false,
-      "cwd": "${workspaceFolder}"
+      "stopOnEntry": false
     }
   ]
 }
