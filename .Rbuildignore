@@ -1,2 +1,4 @@
 ^vsexample\.Rproj$
 ^\.Rproj\.user$
+^\.vscode$
+^tools$
