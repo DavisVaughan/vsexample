@@ -13,4 +13,3 @@ URL: https://github.com/DavisVaughan/vsexample
 BugReports: https://github.com/DavisVaughan/vsexample/issues
 LinkingTo: 
     cpp11
-SystemRequirements: C++11
